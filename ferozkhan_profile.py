@@ -102,6 +102,13 @@ st.markdown('''
 - Graduated with First Class Honors.
 ''')
 
+txt('**Diploma Information Technology (DIT)** Khyber Pakhtunkhwa Information Technology Board (KPITB), Peshawar',
+'2015-2017')
+st.markdown('''
+- Percentage: `94%`
+- **Diploma Information Technology (DIT)** Khyber Pakhtunkhwa Information Technology Board (KPITB), Peshawar'
+''')
+
 #####################
 st.markdown('''
 ## Artificial Intelligence (AI)
